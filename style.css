@@ -1,0 +1,779 @@
+
+/*------Header Start------>*/
+header {
+    width: 100%;
+    background: #01BCF2;
+    color: white;
+    float: left;
+    display: block;
+}
+
+.header_top {
+    width: 90%;
+    margin: auto;
+}
+
+.header_top_left_a p {
+    padding-top: 7px;
+}
+
+.header_top_left_a {
+    width: 20%;
+    height: 40px;
+    float: left;
+    background: #01BCF2;
+}
+
+.header_top_left_b {
+    float: left;
+}
+
+.header_top_left_b p {
+    padding-top: 7px;
+}
+
+.header_top_left_b p i:first-child {
+    padding-left: 10px;
+}
+
+.header_top_right {
+    width: 14%;
+    height: 40px;
+    float: right;
+}
+
+.header_top_right_english {
+    float: left;
+}
+
+.header_top_right_link {
+    float: right;
+}
+
+.header_top_right_link {
+    float: right;
+}
+
+.header_top_drop {
+    background: #01BCF2;
+    border: none;
+    margin-top: 1px;
+    float: left;
+}
+
+.header_body_all {
+    width: 100%;
+    height: 120px;
+    background: white;
+    float: left;
+
+
+}
+
+.header_body {
+    margin-top: 21px;
+    height: 80px;
+}
+
+
+.header_body_left {
+    float: left;
+    border: 1px solid #ad0ae3;
+    border-radius: 36px;
+}
+
+
+.ser_icone i {
+    font-size: 28px;
+    float: left;
+    margin-top: 27px;
+    color: black;
+}
+
+.ser input {
+    width: 70%;
+    height: 50px;
+    border: none;
+    margin-top: 14px;
+    margin-left: 4px;
+    border-radius: 10px;
+    padding-left: 10px;
+    background: #e9e1e1;
+}
+
+
+.ser_icone_button {
+    float: right;
+    width: 20%;
+    height: 35px;
+    margin-top: 24px;
+}
+
+
+.ser_icone_button p {
+    float: left;
+    padding-left: 22px;
+    color: black;
+}
+
+.ser_icone_button i {
+    float: left;
+    font-size: 25px;
+    color: black;
+}
+
+.sopping_card i {
+    float: left;
+    color: black;
+    font-size: 28px;
+}
+
+.sopping_card {
+    margin-top: 26px;
+}
+
+.sopping_card p {
+    float: left;
+    margin-left: 13px;
+    color: black;
+    margin-top: -6px;
+    font-size: 13px;
+}
+
+/*------Header stop------>*/
+
+/*------ Manubar Start--------*/
+
+
+.manubar_all {
+    width: 100%;
+    height: 70px;
+    float: left;
+    background: #1D3484;
+
+}
+
+.manubar_left {
+    width: 20%;
+    height: 70px;
+    background: #02BBF5;
+    float: left;
+}
+
+.manubar_left i {
+    font-size: 22px;
+    color: white;
+    float: left;
+    padding-left: 32px;
+    padding-top: 22px;
+    padding-right: 15px;
+}
+
+.manubar_left p {
+    padding-top: 22px;
+    color: white;
+}
+
+
+.manubar_middel {
+    width: 50%;
+    padding-top: 13px;
+    float: left;
+    padding-left: 33px;
+}
+
+.manubar_color a {
+    color: white;
+}
+
+
+.manubar_middel_icone {
+
+    color: white;
+
+    float: left;
+
+    padding-top: 21px;
+}
+
+.manubar_middel_icone i {
+    font-size: 26px;
+    float: left;
+    padding-right: 13px;
+}
+
+.manubar_middel_icone p {
+    float: left;
+    padding-left: 6px;
+    margin-top: -12px;
+}
+
+span.prince {
+    color: #3170BD;
+}
+
+.manubar_right {
+    width: 85px;
+    height: 70px;
+    background: #01BDF5;
+    float: right;
+}
+
+.manubar_right i {
+    font-size: 36px;
+    color: white;
+    padding: 13px 23px;
+}
+
+/*------ Manubar End--------*/
+
+
+
+.all_catagory {
+    width: 100%;
+    height: 100px;
+    float: left;
+    margin: 2% 0%;
+}
+
+span.catagory {
+    padding: 0px 15px;
+}
+
+
+/*--------- all body start---------- */
+
+.all_body {
+    width: 100%;
+    height: 2800px;
+    float: left;
+}
+
+.brinder {
+    width: 100%;
+    height: 300px;
+    float: left;
+}
+
+.brinder ul li {
+    list-style-type: none;
+    padding-top: 10px;
+    padding-left: 0;
+    font-size: 22px;
+}
+
+span.bold {
+    font-size: 26px;
+}
+
+.color_style {
+    width: 100%;
+    height: 100px;
+    float: left;
+}
+
+.color_style ul li {
+    width: 25px;
+    height: 25px;
+    float: left;
+    list-style-type: none;
+}
+
+.color_style li {
+    margin: 10px;
+    background: red;
+    border-radius: 50%;
+}
+
+li.color-1 {
+    background: white;
+}
+
+li.color-1 i {
+    padding-left: 4px;
+    background: #e3dfd8;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+li.color-2 {
+    background: #837D81;
+}
+
+li.color-3 {
+    background: red;
+}
+
+li.color-4 {
+    background: #930093;
+}
+
+li.color-5 {
+    background: yellow;
+}
+
+li.color-6 {
+    background: blue;
+}
+
+.price_all {
+    background: white;
+}
+
+.price_all ul li {
+    list-style-type: none;
+}
+
+.product_list {
+    background: white;
+    margin: auto;
+    height: 800px;
+}
+
+.product_list i {
+    font-size: 34px;
+}
+
+.product_list_iocone {
+    float: right;
+}
+
+.product_list_1_right ul li {
+    float: left;
+    list-style-type: none;
+}
+
+.product_list_1_right i {
+    font-size: 22px;
+    padding: 2px;
+    color: #F6D000;
+}
+
+.product_list_1_right ul {
+    margin-left: -10px;
+    padding-top: 30%;
+}
+
+.mah {
+    width: 100%;
+    height: 200px;
+}
+
+.mah h1 {
+    text-align: center;
+}
+
+.mah h5 {
+    text-align: center;
+}
+
+.mah p {
+    text-align: center;
+}
+
+span.doler {
+    font-size: 28px;
+    font-weight: bold;
+    padding-bottom: 0px;
+    padding-left: 4px;
+}
+
+.mah h6 {
+    width: 92px;
+    height: 38px;
+    border: 2px solid black;
+    padding: 5px 10px;
+    border-radius: 14px;
+    margin: auto;
+}
+
+.phone_img {
+    width: 100%;
+    height: 250px;
+    float: left;
+}
+
+.phone_img img {
+    width: 100%;
+    height: 250px;
+}
+
+.last_des {
+    width: 100%;
+    height: 300px;
+    float: left;
+    margin-top: 10%;
+}
+
+.last_des_img {
+    width: 80%;
+    height: 100px;
+    float: left;
+
+}
+
+.last_des_img img {
+    width: 100%;
+    height: 100px;
+}
+
+.last_des_tex {
+    width: 95%;
+    height: 120px;
+    float: right;
+    margin-top: 10px;
+}
+
+.last_des_tex p {
+    text-align: justify;
+}
+
+.last_des_icone {
+    width: 100%;
+    height: 40px;
+    float: left;
+    margin-left: 33px;
+    margin-top: 5%;
+}
+
+.last_des_icone ul li {
+    float: left;
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+.last_des_icone i {
+    font-size: 29px;
+}
+
+
+
+/*--------- all body End ( slider left)---------- */
+
+
+
+
+
+/*---------- slider right start-----------*/
+
+.slider_all {
+    width: 100%;
+    height: 300px;
+    float: left;
+}
+
+.slider_left {
+    width: 50%;
+    height: 210px;
+    float: left;
+    margin-top: 8%;
+}
+
+h5.text-center {
+    letter-spacing: 8px;
+}
+
+span.text_parsent {
+    width: 100px;
+    height: 60px;
+    background: #2A3E79;
+    padding: 2px 10px;
+    border-radius: 10px;
+    color: white;
+}
+
+.slider_right {
+    width: 50%;
+    height: 300px;
+    float: right;
+}
+
+.slider_right img {
+    width: 100%;
+    height: 300px;
+    border-radius: 50px;
+    box-shadow: 0px 0px 16px 3px rgba(0,0,0,0.94);
+}
+
+.fashion {
+    width: 100%;
+    height: 200px;
+    float: left;
+    margin-top: 3%;
+}
+
+.product_list_1 {
+    width: 100%;
+    height: 250px;
+    float: left;
+}
+
+.product_list_1_left {
+    width: 50%;
+    height: 250px;
+    float: left;
+}
+
+.product_list_1_left img {
+    width: 100%;
+    height: 250px;
+}
+
+
+.product_list_1_right {
+    width: 50%;
+    height: 250px;
+    float: left;
+}
+
+.product_list_1_right p {
+    text-align: center;
+    font-size: 19px;
+    padding-top: 14%;
+}
+
+.product_list_1_right h2 {
+    text-align: center;
+
+}
+
+.prodect_header {
+    width: 100%;
+    height: 80px;
+    float: left;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.prodect_header_top {
+    width: 100%;
+    float: left;
+    height: 35px;
+    margin-bottom: 30px;
+}
+
+.prodect_header_futter {
+    width: 100%;
+    float: left;
+    height: 40px;
+    background: white;
+}
+
+.prodect_header_futter_left_icone {
+    width: 15%;
+    height: 40px;
+    float: left;
+
+}
+
+.prodect_header_futter_left_icone i {
+    font-size: 25px;
+    padding-left: 12px;
+    padding-top: 11px;
+}
+
+.prodect_header_futter_center {
+    width: 45%;
+    height: 40px;
+    float: left;
+    margin-left: 10%;
+}
+
+.prodect_header_futter_right {
+    float: right;
+    width: 20%;
+    height: 40px;
+    background: white;
+}
+
+
+.first_prodect {
+    width: 100%;
+    height: 360px;
+    float: left;
+    background: #ede2e2;
+    border: 1px solid #590af5;
+    padding: 3px 10px;
+    border-radius: 15px;
+}
+
+.first_prodect_top {
+    width: 100%;
+    height: 250px;
+    float: left;
+}
+
+.first_prodect_top img {
+    width: 100%;
+    height: 250px;
+}
+
+.first_prodect_buttom {
+    width: 100%;
+    height: 58px;
+    float: left;
+}
+
+.first_prodect_buttom ul li {
+    list-style-type: none;
+    float: left;
+}
+
+.first_prodect_buttom p {
+    float: left;
+    padding-left: 22px;
+}
+
+.first_prodect_buttom i {
+    color: #F6D000;
+}
+
+.first_prodect_buttom h2 {
+    margin-top: 58px;
+    text-align: center;
+}
+
+.all_prodect_margin {
+    margin-top: 5%;
+    float: left;
+}
+
+
+.change_page ul li {
+
+    float: left;
+    padding: 5px 40px;
+    list-style-type: none;
+    border: 1px solid black;
+    background: #0d0b08;
+    color: greenyellow;
+    font-size: 22px;
+    margin: 8px;
+    margin-top: 7%;
+    border-radius: 52%;
+}
+
+.change_page {
+    float: left;
+    width: 100%;
+    height: 100px;
+}
+
+.subscrib {
+    width: 100%;
+    height: 80px;
+    float: left;
+    margin-top: 5%;
+}
+
+.subscrib_left {
+    width: 40%;
+    height: 80px;
+    float: left;
+}
+
+.subscrib_right {
+    width: 60%;
+    height: 80px;
+    float: left;
+}
+
+.subscrib_right input {
+    width: 80%;
+    height: 50px;
+    margin: 13px;
+    border-radius: 15px;
+    padding-left: 8px;
+}
+
+.subscrib_left h4 {
+    padding-top: 24px;
+    padding-left: 11px;
+}
+
+.my_location i {
+    padding-right: 7px;
+}
+
+.acount_all {
+    width: 100%;
+    float: left;
+    margin-top: 7%;
+}
+
+.acount_all h2 {
+    padding-bottom: 25px;
+}
+
+
+/*---------- slider right End-----------*/
+
+/*---------- all Futter start --------------*/
+
+
+
+.all_futter{
+    width: 80%;
+    height: 60px;
+    margin: auto;
+    margin-top: 4%;
+}
+.all_futter .play{
+    width: 150px;
+    height: 60px;
+    float: left;
+}
+.all_futter .app{
+    width: 150px;
+    height: 60px;
+    float: left;
+    margin-left: 10px;
+}
+
+.all_futter ul li{
+    float: left;
+    list-style-type: none;
+    padding-left: 21px;
+}
+.all_futter_left{
+    width: 75%;
+    height: 60px;
+    float: left;
+}
+.all_futter_right{
+     width: 25%;
+     float: right;
+     height: 60px;
+}
+.all_futter_left h5 {
+    float: right;
+    padding-top: 15px;
+}
+
+.all_futter_right i {
+    font-size: 25px;
+    padding-top: 17px;
+}
+.all_futter_right ul {
+    margin-left: -30px;
+}
+
+.copyright{
+    width: 95%;
+    height: 40px;
+    float: left;
+    border-radius: 15px;
+    background: black;
+    color: cyan;
+    margin: 30px;
+}
+.copyright span{
+    color: red;
+}
+
+/*---------- all Futter end --------------*/
+
+
+
